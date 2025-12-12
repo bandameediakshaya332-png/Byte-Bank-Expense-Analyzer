@@ -1,0 +1,20 @@
+ByteBank - Digital Expense Analyzer
+
+Developed by: Bandameedi Akshaya
+Course: BTech
+Description: Python-based expense tracker with GUI. Tracks, updates, filters, summarizes expenses, and exports CSV.
+
+How to Run:
+1. Make sure you have Python installed.
+2. Open terminal / PowerShell in this folder.
+3. Run the command: python gui.py
+4. Use the GUI buttons to interact:
+   - Add Expense
+   - View Expenses
+   - Update Expense
+   - Delete Expense
+   - Filter Expenses
+   - Summarize Expenses
+   - Export to CSV
+   - About
+   - Exit
